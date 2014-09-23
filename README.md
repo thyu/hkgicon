@@ -26,15 +26,11 @@ Initial icons are drawn by T.H.Yu.
 <img src="https://github.com/thyu/hkgicon/blob/master/png/dead.png" height="120px">
 <img src="https://github.com/thyu/hkgicon/blob/master/png/devil.png" height="120px">
 <img src="https://github.com/thyu/hkgicon/blob/master/png/dunno.png" height="120px">
-<img src="https://github.com/thyu/hkgicon/blob/master/png/fire.png" height="120px">
 <img src="https://github.com/thyu/hkgicon/blob/master/png/flowerface.png" height="120px">
 <img src="https://github.com/thyu/hkgicon/blob/master/png/frown.png" height="120px">
-<img src="https://github.com/thyu/hkgicon/blob/master/png/fuck.png" height="120px">
 <img src="https://github.com/thyu/hkgicon/blob/master/png/good.png" height="120px">
 <img src="https://github.com/thyu/hkgicon/blob/master/png/hehe.png" height="120px">
 <img src="https://github.com/thyu/hkgicon/blob/master/png/hoho.png" height="120px">
-<img src="https://github.com/thyu/hkgicon/blob/master/png/kill2.png" height="120px">
-<img src="https://github.com/thyu/hkgicon/blob/master/png/kill.png" height="120px">
 <img src="https://github.com/thyu/hkgicon/blob/master/png/kiss.png" height="120px">
 <img src="https://github.com/thyu/hkgicon/blob/master/png/love.png" height="120px">
 <img src="https://github.com/thyu/hkgicon/blob/master/png/no.png" height="120px">
